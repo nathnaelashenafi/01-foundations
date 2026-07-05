@@ -10,6 +10,7 @@ This repository contains the projects I built while learning the fundamentals of
 - Git
 
 ## Projects
+- Note these projects are some pushed and some planned
 
 | Project | Concepts |
 |---------|----------|
