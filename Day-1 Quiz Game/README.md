@@ -3,8 +3,8 @@
 This is a simple quiz game I built while learning JavaScript DOM manipulation.
 
 <p align="center">
-  <img src="images/start-screen.png" width="45%" />
-  <img src="images/result-screen.png" width="45%" />
+  <img src="Images/start-screen.png" width="45%" />
+  <img src="Images/questions.png" width="45%" />
 </p>
 
 ## 📌 What it does
