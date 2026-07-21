@@ -35,6 +35,7 @@ The app displays the current temperature, weather condition, minimum and maximum
 
 ## 📂 Project Structure
 
+```text
 Weather-App/
 │
 ├── index.html
@@ -42,6 +43,7 @@ Weather-App/
 ├── script.js
 ├── screenshot.png
 └── README.md
+```
 
 ---
 
