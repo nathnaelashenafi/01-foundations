@@ -15,6 +15,7 @@ This repository contains the projects I built while learning the fundamentals of
 | Project | Concepts |
 |---------|----------|
 | Counter | DOM, Events |
+|Weather App| fetch api, async/await, try/catch|
 | Quiz App | Arrays, Objects, State |
 | Calculator | Functions, Operators |
 | Rock Paper Scissors | Logic, Conditionals |
